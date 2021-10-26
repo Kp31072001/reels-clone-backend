@@ -9,5 +9,9 @@
     "start": "node server.js"
   },
   "author": "Kankan Paramanik",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
 }
